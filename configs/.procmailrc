@@ -1,0 +1,6 @@
+LOGFILE=/home/fetcher/.procmail.log
+MAILDIR=/home/fetcher/
+VERBOSE=on
+
+:0
+Maildir/
